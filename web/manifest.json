@@ -1,6 +1,6 @@
 {
-    "name": "web_intro",
-    "short_name": "web_intro",
+    "name": "portfolio_web",
+    "short_name": "portfolio_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
